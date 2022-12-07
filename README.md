@@ -1,6 +1,10 @@
 # Lekking as collective behaviour
 
-Code and data for agent based model and preliminary blackbuck data analysis.
+Code and data for agent based model and preliminary blackbuck data analysis for the paper: Akanksha Rathore, Kavita Isvaran, Vishwesha Guttal, Lekking as Collective Behaviour, In Revision. 
+
+# Figure 2: Agent-based model results.
+
+To reproduce results of agent-based model shown in Figure 2A and 2B of the paper, please download and run the code Figure2.R. You need to have installed R and RStudio on your computer and must be familiar about using R. Since the simulations are based on a stochastic agent-based model, you will not see figure identical to those shown in the figure. There will be variation in the figure, especially in Figure 2B, between each run. 
 
 ## Lek formation
 
