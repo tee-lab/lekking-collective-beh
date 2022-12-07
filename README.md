@@ -24,13 +24,13 @@ In the animations, we display sample trajectories for these possibilities, demon
 <img src="https://github.com/aakanksharathore/Lekking-Perspective/blob/main/rs1.gif" alt="Alt text" title="Synchronised departures - copying among neighbours">
 <br>
 
-##Figure 3: Blackbuck data analysis
+## Figure 3: Blackbuck data analysis
 
 Data related to Figure 3 are in the file: ActSync.csv
 
 Code related to generating Figure 3 are in: Figure3.R
 
-# Reference
+# References
 
 Akanskha Rathore, Kavita Isvaran, Vishwesha Guttal, 2022, Lekking as Collective Behaviour, In Revision. 
 
