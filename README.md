@@ -32,7 +32,9 @@ Code related to generating Figure 3 are in: Figure3.R
 
 # References
 
-Akanskha Rathore, Kavita Isvaran, Vishwesha Guttal, 2022, Lekking as Collective Behaviour, In Revision. 
+If you use our codes, please cite the following manuscript:
+
+Akanksha Rathore, Kavita Isvaran and Vishwesha Guttal, 2023, Lekking as collective behaviour, Phil. Trans. R. Soc. B,  378: 20220066, doi: https://doi.org/10.1098/rstb.2022.0066
 
 
 
