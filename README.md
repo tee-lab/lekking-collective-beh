@@ -1,6 +1,6 @@
 # Lekking as collective behaviour
 
-Code and data for agent based model and preliminary blackbuck data analysis for the paper: Akanksha Rathore, Kavita Isvaran, Vishwesha Guttal, Lekking as Collective Behaviour, In Revision. 
+Code and data for agent based model and preliminary blackbuck data analysis for the paper: Akanksha Rathore, Kavita Isvaran and Vishwesha Guttal, 2023, Lekking as collective behaviour, Phil. Trans. R. Soc. B, 378: 20220066, doi: https://doi.org/10.1098/rstb.2022.0066
 
 ## Figure 2A and B: Agent-based model results.
 
